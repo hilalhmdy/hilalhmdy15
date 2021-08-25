@@ -1,0 +1,20 @@
+notul
+
+- catatan namanya jgn ustadzah
+- design logout
+- setoran ga harus 1 hari
+- akun ada kamad, guru, murid, siswa
+- perminggu 1hal 1 
+- guid penggunaan, dan kuriklum
+- fitur apload, nama surah ganti tombol box
+- siswa 308
+- ada apload murajaah juga
+- status, acc hafalan
+- guru pake nuptk, siswa nisn
+- guru kasi masukan di cattan, bisa pakai vidio
+- siapin nisn
+- fitur murajaah tambahan
+- fitur ujian
+- fitur guru yang ngisi data sendiri
+- E-tahfiz darunnajah
+- di scoreboard, tambah show sama searching

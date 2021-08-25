@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <title> Produk Barang </title>
+  <link rel="stylesheet" href="latihan.css">
+ 
+</head>
+
+<body>
+  <div class = "nav">
+    <ul>
+        <li><a href="#">Beranda</a></li>
+        <li><a href="#">Produk</a></li>
+        <li><a href="#">Informasi</a></li>
+    </ul>
+  </div>
+  <h1> Produk Barang </h1>
+  <hr>
+  <ol>
+    <li id= '1'>
+        <h2>Produk 1</h1> 
+        <img src = 'src/122020_200201_0005.jpg' alt ='eror' >
+        <p> Harga = Rp. 20.000</p>
+    </li> 
+    <li>
+        <h2>Produk 2</h1>
+        <img src = 'src/122020_200201_0002.jpg' alt ='eror' >
+        <p> Harga = Rp. 30.000</p>    
+    </li>
+    <li>
+        <h2>Produk 3</h1>
+        <img src = 'src/4354163302_cf4622d1fe_t.jpg' alt ='eror' >
+        <p> Harga = Rp. 40.000</p>
+    </li>
+</ol>
+  <script>
+    var card_1 = document.getElementById("1");
+
+    card_1.addEventListener("click", function(){
+    document.location.href = 'Produk1.html';
+    });
+  </script>
+</body>
+
+</html>
